@@ -1,15 +1,16 @@
-# Vegan Junk Food Bar
-Category: food
-Neighborhood: various locations
-Address: see site
-Link: https://veganjunkfoodbar.com/
-From RAI: ~15 min by tram
+# Vegan Junk Food Bar (Marie Heinekenplein)
+
+Category: food  
+Neighborhood: De Pijp  
+Address: Marie Heinekenplein 9–10, 1072 MH Amsterdam  
+Link: https://www.veganjunkfoodbar.com/locations  
+From RAI: ~10–15 min by tram (or a long walk)
 
 Why it is good:
-- Loaded fries, colorful burgers, vegan bitterballen.
+- Over-the-top vegan comfort food: loaded fries, colorful burgers, vegan bitterballen.
 
 Dietary notes:
-- Vegan
+- Vegan.
 
 Tips:
-- Fun vibe, easy with a group after conference socials.
+- Fun with a group after conference socials; can be busy in the evening.
