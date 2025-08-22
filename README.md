@@ -22,7 +22,7 @@ Check day-of in Google Maps or [9292](https://9292.nl/en) for the most accurate 
 
 ## How to Contribute
 
-Spotted a great place in Amsterdam you’d recommend to folks visiting for OSS Europe? Please add it!
+Have a spot or two you want to recommend to folks visiting for OSS Europe? Please add it!
 
 1. Fork this repo.
 2. Create a new file in the `places/` directory. Use a short, lowercase, hyphenated name (e.g. `my-favorite-spot.md`).
