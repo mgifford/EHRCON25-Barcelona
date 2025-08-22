@@ -1,13 +1,9 @@
 # Fromagerie Abraham Kef
 
-Category: food
-
-Neighborhood: Jordaan
-
-Address: Marnixstraat 192B, 1016 TJ Amsterdam
-
-Link: https://www.google.com/maps?q=Fromagerie+Abraham+Kef,+Marnixstraat+192B,+1016+TJ+Amsterdam,+Netherlands
-
+Category: food  
+Neighborhood: Jordaan  
+Address: Marnixstraat 192B, 1016 TJ Amsterdam  
+Link: https://www.google.com/maps?q=Fromagerie+Abraham+Kef,+Marnixstraat+192B,+1016+TJ+Amsterdam,+Netherlands  
 From RAI: ~12 min by tram, ~45–50 min walk
 
 Why it is good:
