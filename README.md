@@ -20,14 +20,11 @@ Spotted a great place in Amsterdam you’d recommend to folks visiting for OSS E
 3. Copy and paste the template below into your new file, and fill it out:
 
 Category: <food | coffee | drinks | dessert>  
-
 Neighborhood: <area or "Centrum">  
-
 Address: <street, postal code, city>  
-
 Link: <official site or Google Maps>  
 
-From RAI: <~X min by tram | metro | walk>  
+From RAI: <~X min by tram | metro | walk>
 
 Why it is good:  
 - One or two plain lines on what makes it worth a stop.  
