@@ -21,4 +21,4 @@ Tips:
 - Hopefully you go on a day Fleur (the dog) is there <3
 
 Note: 
-– Tiny room up a very steep staircase!
+- Tiny room up a very steep staircase!
