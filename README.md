@@ -12,37 +12,31 @@ Add your picks with a pull request or open an issue.
 ---
 
 ## How to Contribute
-1. Fork this repo and create a branch.  
-2. Add a new Markdown file under `/places` using the template below.  
-3. Append a row to `/data/places.csv` with the same info.  
-4. Open a PR.  
 
-If you can’t open a PR, open an issue with the info and a maintainer will add it.
+Spotted a great place in Amsterdam you’d recommend to folks visiting for OSS Europe? Please add it!
 
----
+1. Fork this repo.
+2. Create a new file in the `places/` directory. Use a short, lowercase, hyphenated name (e.g. `my-favorite-spot.md`).
+3. Copy and paste the template below into your new file, and fill it out:
 
-## Place Template
+Category: <food | coffee | drinks | dessert>  
 
-Copy this into a new file called `places/<slug>.md`:
+Neighborhood: <area or "Centrum">  
 
-<Name>
-Category: <food | coffee | drinks | dessert>
-Neighborhood: <optional>
-Address: <street, city>
-Link: <official or maps>
-From RAI: <x min tram | walk>
+Address: <street, postal code, city>  
 
-Why it is good:
+Link: <official site or Google Maps>  
 
-One or two plain-language lines
+From RAI: <~X min by tram | metro | walk>  
 
-Dietary notes:
+Why it is good:  
+One or two plain lines on what makes it worth a stop.  
 
-vegan-friendly? vegetarian? gluten-free?
+Dietary notes:  
+vegan | veg-friendly | gluten-free | n/a  
 
-Tips:
-
-best time, group size, reservations?
+Tips:  
+reservations? small room? good for groups? best time to go?
 
 ---
 
@@ -54,7 +48,3 @@ See [LICENSE](LICENSE) for details.
 
 ## Code of Conduct
 Be kind and respectful. See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
-
-
-
-
