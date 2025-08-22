@@ -1,14 +1,22 @@
-# OSS Europe Amsterdam Food
+# OSS Europe Amsterdam Food Guide
 
-A community-curated list of places to eat, drink, and hang out while in Amsterdam for Open Source Summit Europe.
+Headed to Amsterdam for [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)?  
+Here’s a community-curated list of food and drink spots near the RAI and across the city. These are places I’ve tried and enjoyed on past trips, plus a few that others have recommended.  
 
-*Travel times from RAI are rough estimates and can shift with traffic or transit schedules. Double-check on Google Maps or the 9292 transit app (9292.nl) before you head out.*
+If you’ve got a favorite café, bar, or restaurant to add, please contribute! The goal is to make it easier for folks in the open source community to find good eats while in town.  
 
 ---
 
-## How to Use
-- Browse `/places` for individual write-ups of each spot.  
-- See `/data/places.csv` for a quick index of all places in one table.  
+## How it works
+- Each place has its own Markdown file in `/places` with details (address, neighborhood, why it’s good, tips).  
+- The full list is also in `/data/places.csv` for quick reference.  
+- Contributions are welcome — see [How to Contribute](#how-to-contribute).  
+
+---
+
+## Note on travel times
+Travel times from the RAI are ballpark and can change with routes or time of day.  
+Check day-of in Google Maps or [9292](https://9292.nl/en) for the most accurate directions.
 
 ---
 
