@@ -1,13 +1,9 @@
 # Pancakehouse Upstairs
 
-Category: food
-
-Neighborhood: Centrum
-
-Address: Grimburgwal 2, 1012 GA Amsterdam
-
-Link: https://www.google.com/maps?q=Pancakehouse+Upstairs,+Grimburgwal+2,+1012+GA+Amsterdam,+Netherlands
-
+Category: food  
+Neighborhood: Centrum  
+Address: Grimburgwal 2, 1012 GA Amsterdam  
+Link: https://www.google.com/maps?q=Pancakehouse+Upstairs,+Grimburgwal+2,+1012+GA+Amsterdam,+Netherlands  
 From RAI: ~10 min by tram, ~40 min walk
 
 Why it is good:
