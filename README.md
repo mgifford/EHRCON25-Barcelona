@@ -30,13 +30,13 @@ Link: <official site or Google Maps>
 From RAI: <~X min by tram | metro | walk>  
 
 Why it is good:  
-One or two plain lines on what makes it worth a stop.  
+- One or two plain lines on what makes it worth a stop.  
 
 Dietary notes:  
-vegan | veg-friendly | gluten-free | n/a  
+- vegan | veg-friendly | gluten-free | n/a  
 
 Tips:  
-reservations? small room? good for groups? best time to go?
+- reservations? small room? good for groups? best time to go?
 
 ---
 
