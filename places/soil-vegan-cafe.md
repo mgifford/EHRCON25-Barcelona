@@ -1,15 +1,16 @@
-# SOIL Vegan Cafe
-Category: food
-Neighborhood: various locations
-Address: see site
-Link: https://soilvegan.com/
-From RAI: ~20 min by tram
+# SOIL Vegan Cafe (West)
+
+Category: food  
+Neighborhood: Oud-West  
+Address: Bilderdijkstraat 141, 1053 KN Amsterdam  
+Link: https://www.soilvegancafe.com/soil-west  
+From RAI: ~15–20 min by tram
 
 Why it is good:
-- Laid-back spot with smart vegan dishes like kimchi fried rice and hearty bowls.
+- Creative vegan comfort food in a relaxed, bar-like space near Vondelpark.
 
 Dietary notes:
-- Vegan
+- Vegan.
 
 Tips:
-- Nice midday recharge between sessions.
+- The 'West' location has the cozier vibe; book if you’re a group.
