@@ -1,7 +1,8 @@
-# Amsterdam Food and Drink for OSS Europe
+# OSS Europe Amsterdam Food
 
-A community-curated list of food, drinks, and hangout spots near RAI Amsterdam for Open Source Summit Europe attendees.  
-Add your picks with a pull request or open an issue.
+A community-curated list of places to eat, drink, and hang out while in Amsterdam for Open Source Summit Europe.
+
+*Travel times from RAI are rough estimates and can shift with traffic or transit schedules. Double-check on Google Maps or the 9292 transit app (9292.nl) before you head out.*
 
 ---
 
