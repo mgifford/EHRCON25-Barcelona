@@ -1,8 +1,11 @@
 # Pesca
-Category: food
-Neighborhood: Jordaan
+
+Category: food  
+Neighborhood: Jordaan  
 Address: Rozengracht 133, 1016 LV Amsterdam
+
 Link: https://www.google.com/maps?q=Pesca+Seafood+Restaurant+Amsterdam,+Rozengracht+133,+1016+LV+Amsterdam,+Netherlands
+
 From RAI: ~12 min by tram, ~45–50 min walk
 
 Why it is good:
