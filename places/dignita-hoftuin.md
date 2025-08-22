@@ -1,13 +1,9 @@
 # Dignita Hoftuin
 
-Category: food
-
-Neighborhood: Plantage
-
-Address: Nieuwe Herengracht 18a, 1018 DP Amsterdam
-
-Link: https://www.google.com/maps/place/Dignita+Hoftuin/
-
+Category: food  
+Neighborhood: Plantage  
+Address: Nieuwe Herengracht 18a, 1018 DP Amsterdam  
+Link: https://www.google.com/maps/place/Dignita+Hoftuin/  
 From RAI: ~10 min by metro or tram, ~35 min walk
 
 Why it is good:
