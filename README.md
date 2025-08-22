@@ -7,6 +7,16 @@ If you’ve got a favorite café, bar, or restaurant to add, please contribute! 
 
 ---
 
+## Top Picks
+
+If you only have time for a few meals, here are some of my personal favorites:  
+
+- [D’Vijff Vlieghen](places/d-vijff-vlieghen.md) — A classic Amsterdam dining spot with history and character.  
+- [De Hapjeshoek](places/de-hapjeshoek.md) — Surinamese street food, quick and flavorful.  
+- [Pancake House Upstairs](places/pancake-house-upstairs.md) — Tiny, quirky, and some of the best pancakes in the city.  
+
+---
+
 ## How it works
 - Each place has its own Markdown file in `/places` with details (address, neighborhood, why it’s good, tips).  
 - The full list is also in `/data/places.csv` for quick reference.  
