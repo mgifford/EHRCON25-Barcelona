@@ -2,7 +2,7 @@
 
 Headed to Barcelona for [EHRCON25](https://openehr.org/event/ehrcon25/) in October?  
 
-Here’s a community-curated list of food and drink spots near the Centre de Cultura Contemporània de Barcelona.   
+Here’s a community-curated list of food and drink spots near the [Centre de Cultura Contemporània de Barcelona](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Carrer+de+Montalegre%2C+5+Barcelona+Catalunya+08001+Spain).   
 
 If you’ve got a favorite café, bar, or restaurant near to the venue, please add it! The goal is to make it easier for folks in the OpenEHR community to find good eats while in town.  
 
@@ -10,8 +10,9 @@ If you’ve got a favorite café, bar, or restaurant near to the venue, please a
 
 ## Top Picks
 
-If you only have time for a few meals, here are some of my personal favorites:  
+If you only have time for a few meals:  
 
+[RAO Restaurant](places/RAO-Restaurant.md) - It's close
 
 
 ---
