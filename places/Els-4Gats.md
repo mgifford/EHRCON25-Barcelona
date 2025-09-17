@@ -3,6 +3,7 @@ Category: food
 Neighborhood:   
 Address: Carrer de Montsió, 3, Ciutat Vella, 08002 Barcelona  
 Link: [https://maps.app.goo.gl/7Mn3aMFvMdu3Tpna6](https://maps.app.goo.gl/7Mn3aMFvMdu3Tpna6)
+Place: [https://4gats.com/](https://4gats.com/)
 From RAI: ~11 min walk  
 
 Why it is good:
