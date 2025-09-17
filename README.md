@@ -13,6 +13,7 @@ If you’ve got a favorite café, bar, or restaurant near to the venue, please a
 If you only have time for a few meals:  
 
 - [RAO Restaurant](places/RAO-Restaurant.md) - It's close
+- [Xera Restaurant](places/Xera-Restaurant.md) - Also close and better rated
 - [Els 4Gats](places/Els-4Gats.md) - Such an amazing space
 - [La Pepita](places/La-Pepita.md) - Interesting food and local culture
 
