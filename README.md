@@ -1,9 +1,10 @@
-# OSS Europe Amsterdam Food Guide
+# Barcelona Food Guide
 
-Headed to Amsterdam for [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)?  
-Here’s a community-curated list of food and drink spots near the RAI and across the city. These are places I’ve tried and enjoyed on past trips, plus a few that others have recommended.  
+Headed to Barcelona for [EHRCON25](https://openehr.org/event/ehrcon25/) in October?  
 
-If you’ve got a favorite café, bar, or restaurant to add, please contribute! The goal is to make it easier for folks in the open source community to find good eats while in town.  
+Here’s a community-curated list of food and drink spots near the Centre de Cultura Contemporània de Barcelona.   
+
+If you’ve got a favorite café, bar, or restaurant near to the venue, please add it! The goal is to make it easier for folks in the OpenEHR community to find good eats while in town.  
 
 ---
 
@@ -11,9 +12,7 @@ If you’ve got a favorite café, bar, or restaurant to add, please contribute! 
 
 If you only have time for a few meals, here are some of my personal favorites:  
 
-- [D’Vijff Vlieghen](places/d-vijff-vlieghen.md) — A classic Amsterdam dining spot with history and character.  
-- [De Hapjeshoek](places/de-hapjeshoek.md) — Surinamese street food, quick and flavorful.  
-- [Pancake House Upstairs](places/pancake-house-upstairs.md) — Tiny, quirky, and some of the best pancakes in the city.  
+
 
 ---
 
@@ -25,14 +24,14 @@ If you only have time for a few meals, here are some of my personal favorites:
 ---
 
 ## Note on travel times
-Travel times from the RAI are ballpark and can change with routes or time of day.  
-Check day-of in Google Maps or [9292](https://9292.nl/en) for the most accurate directions.
+Travel times from the Centre de Cultura Contemporània de Barcelona are ballpark and can change with routes or time of day.  
+Check day-of in Google Maps for the most accurate directions.
 
 ---
 
 ## How to Contribute
 
-Have a spot or two you want to recommend to folks visiting for OSS Europe? Please add it!
+Have a spot or two you want to recommend to folks visiting for EHRCON25? Please add it!
 
 1. Fork this repo.
 2. Create a new file in the `places/` directory. Use a short, lowercase, hyphenated name (e.g. `my-favorite-spot.md`).
