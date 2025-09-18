@@ -6,6 +6,8 @@ Here’s a community-curated list of food and drink spots near the [Centre de Cu
 
 If you’ve got a favorite café, bar, or restaurant near to the venue, please add it! The goal is to make it easier for folks in the OpenEHR community to find good eats while in town.  
 
+Remember the pre-conference drinks and tapas - sponsored by the [vitagroup](https://www.vitagroup.ag/en/) team - on the evening of October 15th at Cafe Ocana. All the details are here - [Barcelona pre-conference drinks – Cafe Ocaña – openehr.org ](https://openehr.org/event/barcelona-pre-conference-drinks-venue-tbc/)
+
 ---
 
 ## Top Picks
